@@ -4,7 +4,7 @@ My name is EBIL PAUL - first of my name
 - 🔭 I’m currently working with backend technologies
 - 🌱 I’m currently doing Diploma in computer science at [Uganda Institute of Information and Communications Technology](https://uict.ac.ug/)
 - 💬 Ask me about Backend development and Computer Vision
-- 📫 How to reach me +256 760852958 email: ebilpaul06@gmail.com
+- 📫 How to reach me +256-760-852-958 email: ebilpaul06@gmail.com
 - ⚡ Fun fact: An image is worth a thousand words
 
 

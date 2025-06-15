@@ -36,7 +36,7 @@ This GitHub is a reflection of my journey: learning in public, building with pur
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
-<!--
+
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   I started my coding journey as a curious computer science student, fascinated by how real-world systems are built — not just the code, but the infrastructure, architecture, and tools behind them.
@@ -48,7 +48,7 @@ Another major curiosity of mine is computer vision — the idea that machines ca
 Even though I’m still a student, I approach every project with a builder’s mindset: learn deeply, solve real problems, and keep growing. This GitHub is where I share that journey — openly, and in motion.
 
 And I’m just getting started.
--->
+
 
 <!--
 **paulebil/paulebil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

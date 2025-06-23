@@ -23,39 +23,44 @@ This GitHub is a reflection of my journey: learning in public, building with pur
 
 ### 🧰 Languages and Tools
 <p align="left"> 
-<a href="https://python.org" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" style="padding-right:10px;" /> 
-</a>
-<a href="https://go.dev" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="30px" style="padding-right:10px;" />
-</a> 
-<a href="https://docker.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30px" style="padding-right:10px;" />
-</a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="30px" style="padding-right:10px;" /> 
-</a>
-<a href="https://postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30px" style="padding-right:10px;" /> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" style="padding-right:10px;" /> 
-</a>
-<a href="https://linux.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" style="padding-right:10px;" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="30px" style="padding-right:10px;" />
-</a>
-<a href="https://github.com" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" style="padding-right:10px;" />
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-<img src="./assests/fastapi-removebg-preview.png" alt="FastAPI" width="30px" style="padding-right:10px;" /> 
-</a>
-<a href="https://gofiber.io" target="_blank" rel="noreferrer">
-<img src="./assests/fiber.png" alt="GoFiber" width="30px" style="padding-right:10px;" /> 
-</a>
+  <a href="https://python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" style="padding-right:10px;" /> 
+  </a>
+  <a href="https://go.dev" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="30px" style="padding-right:10px;" />
+  </a> 
+  <a href="https://docker.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30px" style="padding-right:10px;" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="30px" style="padding-right:10px;" /> 
+  </a>
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30px" style="padding-right:10px;" /> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30px" style="padding-right:10px;" /> 
+  </a>
+  <a href="https://linux.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" style="padding-right:10px;" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="30px" style="padding-right:10px;" />
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" style="padding-right:10px;" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="./assests/fastapi-removebg-preview.png" alt="FastAPI" width="30px" style="padding-right:10px;" /> 
+  </a>
+  <a href="https://gofiber.io" target="_blank" rel="noreferrer">
+    <img src="./assests/fiber.png" alt="GoFiber" width="30px" style="padding-right:10px;" /> 
+  </a>
+  <a href="https://sqlalchemy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="36" height="36" alt="Alembic" />
+  </a><a href="https://github.com/axllent/mailpit" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/axllent/mailpit/develop/server/ui/mailpit.svg" width="36" height="36" alt="Mailpit" />
+  </a>
 </p> 
 <br />
 

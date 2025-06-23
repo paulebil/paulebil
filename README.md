@@ -58,7 +58,7 @@ This GitHub is a reflection of my journey: learning in public, building with pur
   </a>
   <a href="https://sqlalchemy.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="36" height="36" alt="Alembic" />
-  </a><a href="https://github.com/axllent/mailpit" target="_blank" rel="noreferrer">
+  </a><a href="https://mailpit.axllent.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/axllent/mailpit/develop/server/ui/mailpit.svg" width="36" height="36" alt="Mailpit" />
   </a>
 </p> 

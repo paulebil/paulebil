@@ -64,6 +64,18 @@ This GitHub is a reflection of my journey: learning in public, building with pur
 </p> 
 <br />
 
+
+## 📓 Computer Vision Notebooks
+
+Explore my collection of hands-on computer vision projects built with PyTorch, OpenCV, and modern deep learning tools.
+
+📁 [View the Full Repository](https://github.com/paulebil/ComputerVisionNotebooks-Tut)
+
+
+> These notebooks document my learning journey and are inspired by open tutorials and research papers.
+
+
+
 #
 ### 📊 Stats
 

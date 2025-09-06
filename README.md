@@ -1,16 +1,16 @@
 ## Hi there 👋
-My name is EBIL PAUL - first of my name
+I am EBIL PAUL - first of my name
 
 - 🔭 I’m currently working with backend technologies
-- 🌱 I’m currently doing Diploma in computer science at [Uganda Institute of Information and Communications Technology](https://uict.ac.ug/)
+- 🌱  Acquired a Diploma in computer science at [Uganda Institute of Information and Communications Technology](https://uict.ac.ug/)
 - 💬 Ask me about Backend development and Computer Vision
 - 📫 How to reach me +256-760-852-958 email: ebilpaul06@gmail.com
 - ⚡ Fun fact: An image is worth a thousand words
 
 
-**`Computer Science Student (Backend Engineer / Cloud-Native Enthusiast)`**
+**`Computer Scientist (Backend Engineer / Cloud-Native Enthusiast)`**
 
-I’m a student and backend engineer passionate about building reliable, scalable systems — with a strong interest in computer vision and its real-world applications. Though still learning, I actively build with tools like FastAPI (Python) and GoFiber (Go), and I enjoy solving problems with clean, backend-first architecture.
+I’m a computer scientist and backend engineer passionate about building reliable, scalable systems — with a strong interest in computer vision and its real-world applications. Though still learning, I actively build with tools like FastAPI (Python) and GoFiber (Go), and I enjoy solving problems with clean, backend-first architecture.
 
 I’m deeply inspired by the open-source community and love working with cloud-native technologies like Docker and yet to explore Kubernetes to containerize, scale, and deploy backend services the right way.
 
@@ -99,6 +99,6 @@ I naturally gravitated toward backend development, building APIs and architectin
 
 Another major curiosity of mine is computer vision — the idea that machines can see, interpret, and interact with the world just like we do. To me, this is more than just technology; it’s personal. My parents always hoped I would become a doctor. While I may not wear a white coat, I’ve come to realize that with computer vision, I can still solve problems in medicine, healthcare, and diagnostics — with code. I will be a doctor — just using a different set of tools.
 
-Even though I’m still a student, I approach every project with a builder’s mindset: learn deeply, solve real problems, and keep growing. This GitHub is where I share that journey — openly, and in motion.
+Even though I’m still a student of computer science, I approach every project with a builder’s mindset: learn deeply, solve real problems, and keep growing. This GitHub is where I share that journey — openly, and in motion.
 
 And I’m just getting started.
